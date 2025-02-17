@@ -6,4 +6,4 @@ build-type:         Simple
 executable my-happstack-project
   main-is:          Main.hs
   hs-source-dirs:   app
-  build-depends:    base, filepath
+  build-depends:    base, filepath,happstack-server
